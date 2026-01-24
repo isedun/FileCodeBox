@@ -158,7 +158,8 @@ data/.env
 # Ignore node_modules
 node_modules/
 
-
 AGENTS.md
 
 dist/
+# Frontend themes (built from GitHub during Docker build)
+themes/

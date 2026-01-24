@@ -169,7 +169,7 @@ One-click deployment
 <tr>
 <td align="center">
 <h4>💾 Storage Options</h4>
-Local, S3, OneDrive support
+Local, S3, <a href="./docs/guide/storage-onedrive.md">OneDrive</a>, <a href="./docs/guide/storage-opendal.md">OpenDAL</a> support
 </td>
 <td align="center">
 <h4>📱 Responsive</h4>

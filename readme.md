@@ -173,7 +173,7 @@ FileCodeBox 是一个基于 FastAPI + Vue3 开发的轻量级文件分享工具�
 <tr>
 <td align="center">
 <h4>💾 存储扩展</h4>
-支持本地存储、S3 协议、OneDrive 等
+支持本地存储、S3 协议、<a href="./docs/guide/storage-onedrive.md">OneDrive</a>、<a href="./docs/guide/storage-opendal.md">OpenDAL</a> 等
 </td>
 <td align="center">
 <h4>📱 响应式设计</h4>
